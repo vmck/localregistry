@@ -1,0 +1,2 @@
+# localregistry
+Docker cached registry
